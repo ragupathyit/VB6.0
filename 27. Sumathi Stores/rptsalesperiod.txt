@@ -1,0 +1,17 @@
+M
+                               Sumathi Stores
+
+                    Sales Period Wise Report Details
+Report for the Customer: CHANDRU
+Report for the date from 06/06/2016 to 30/06/2016
+--------------------------------------------------------------------------------
+B.No   S.No ICode Item Name                        Item Rate Quantity  Total Amt
+--------------------------------------------------------------------------------
+4         1 I8    ASAFOITIDA                           22.00 0.1 GRMS       2.20
+5         1 A3    BISCATE                               5.00 1 PKT          5.00
+--------------------------------------------------------------------------------
+                                                   Total Amount (Rs):       7.20
+                                                   Discount     (Rs):       0.00
+                                             Total Sales Amount (Rs):       7.20
+
+

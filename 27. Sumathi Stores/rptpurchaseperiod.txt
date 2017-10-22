@@ -1,0 +1,20 @@
+M
+                               KSA and Sons
+                           New Vegitable Market
+                  Vegitable Supplier and Commission Agency
+                           METTUPALAYAM - 641301
+                     CELL NO - 93641 33333, 90034 00000
+
+                    Purchase Period Wise Report Details
+Report for the date from 01/03/2016 to 19/03/2016
+--------------------------------------------------------------------------------
+P.ID   Bags ICode Item Name                       Quantity  Item Rate  Total Amt
+--------------------------------------------------------------------------------
+1         0 2     M.CARROT                          200.00      10.00    2000.00
+2        20 1     CARROT                            200.00      15.00    3000.00
+1       200 1     CARROT                            200.00      12.00    2400.00
+--------------------------------------------------------------------------------
+                                                   Total Amount (Rs):    7400.00
+                                                   Cooly Amount (Rs):       0.00
+                                                   Lorry Hire   (Rs):       0.00
+                                          Total Purchase Amount (Rs):    7400.00

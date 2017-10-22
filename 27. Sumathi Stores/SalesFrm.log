@@ -1,0 +1,6 @@
+Line 58: Class RichTextLib.RichTextBox of control rtfbill was not a loaded control class.
+Line 151: Class MSForms.ComboBox of control cmb_itemlist was not a loaded control class.
+Line 455: Class MSFlexGridLib.MSFlexGrid of control MSGrid1 was not a loaded control class.
+Line 480: Class MSComCtl2.DTPicker of control DTPicker1 was not a loaded control class.
+Line 511: Class MSFlexGridLib.MSFlexGrid of control MSGrid was not a loaded control class.
+Line 600: Class MSForms.ComboBox of control txtcustname was not a loaded control class.

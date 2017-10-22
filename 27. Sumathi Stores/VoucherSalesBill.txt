@@ -1,0 +1,30 @@
+M
+                 Sumathi Stores
+--------------------------------------------
+              VOUCHER SALES BILL
+To:CHANDRU                  
+Voucher No: 2      Date: 30/06/16 (10:05 PM)
+--------------------------------------------
+Particulars                           Amount
+--------------------------------------------
+TOTAL OLD BALANCE                      2.00
+RECEIVED BALANCE                       2.00
+REMAINING BALANCE                      0.00
+
+Payment Type: CASH
+--------------------------------------------
+Two Rupees Only
+
+                        Authorized Signatory
+
+
+
+
+
+
+
+
+
+
+
+
