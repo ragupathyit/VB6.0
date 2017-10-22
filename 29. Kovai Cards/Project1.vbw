@@ -1,0 +1,14 @@
+FrmLogin = -204, 122, 650, 548, C, 0, 0, 854, 426, C
+modConvertNumber = 78, 78, 955, 504, C
+modGetMACadr = 182, 182, 986, 598, C
+ModuleConnection = 26, 26, 880, 452, Z
+MDIForm1 = 104, 104, 955, 530, C, 60, 22, 914, 448, C
+Button = 10, 71, 954, 436, C, 104, 104, 955, 530, C
+FrmCustomerMaster = 81, 94, 932, 520, C, 104, 104, 955, 530, C
+FrmRepo = 182, 182, 1026, 608, C, 78, 78, 922, 504, C
+FrmHelp = 0, 0, 0, 0, C, 26, 26, 870, 452, C
+FrmReport = 78, 78, 922, 504, C, 34, 87, 878, 513, C
+FrmItemMaster = 104, 104, 964, 520, C, 78, 78, 938, 494, C
+FrmBalanceSales = 26, 26, 861, 442, C, 26, 26, 861, 442, C
+FrmCashSales = 0, 0, 835, 416, , 208, 208, 1043, 624, C
+FrmCreditSales = 78, 78, 954, 494, C, 52, 52, 928, 468, C
