@@ -1,0 +1,9 @@
+1. cust
+2. item
+3. sales
+4. sbal
+5. repo
+6. calc
+7. help
+
+Company System Resolution is 1366*768

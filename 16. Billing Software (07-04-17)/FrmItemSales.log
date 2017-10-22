@@ -1,0 +1,17 @@
+Line 150: Class MSFlexGridLib.MSFlexGrid of control MSGrid was not a loaded control class.
+Line 335: Class MSFlexGridLib.MSFlexGrid of control MSGrid1 was not a loaded control class.
+Line 156: The property name _ExtentX in MSGrid is invalid.
+Line 157: The property name _ExtentY in MSGrid is invalid.
+Line 158: The property name _Version in MSGrid is invalid.
+Line 159: The property name Cols in MSGrid is invalid.
+Line 160: The property name FixedCols in MSGrid is invalid.
+Line 161: The property name BackColorBkg in MSGrid is invalid.
+Line 162: The property name GridColor in MSGrid is invalid.
+Line 164: The property name FormatString in MSGrid is invalid.
+Line 341: The property name _ExtentX in MSGrid1 is invalid.
+Line 342: The property name _ExtentY in MSGrid1 is invalid.
+Line 343: The property name _Version in MSGrid1 is invalid.
+Line 344: The property name FixedCols in MSGrid1 is invalid.
+Line 345: The property name BackColorBkg in MSGrid1 is invalid.
+Line 346: The property name GridColor in MSGrid1 is invalid.
+Line 348: The property name FormatString in MSGrid1 is invalid.

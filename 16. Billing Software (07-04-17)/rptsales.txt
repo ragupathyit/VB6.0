@@ -1,0 +1,11 @@
+M
+
+            Sales Period Wise Report Details
+Report for the date from 01-01-2015 to 21-01-2015
+--------------------------------------------------------------------------------
+Bill No  Customer Name             Concern Name C.Type     Sales Date   Tot. Amt
+--------------------------------------------------------------------------------
+1        SARAVANAN G               PERSONNAL    PARTY      14-01-2015     450.00
+2        SARAVANAN G               PERSONNAL    PARTY      14-01-2015     400.00
+--------------------------------------------------------------------------------
+                                                                          850.00
