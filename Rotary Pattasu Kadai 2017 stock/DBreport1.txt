@@ -1,0 +1,17 @@
+                Annamalaiyaar Pattasu Kadai
+                No 5A, RAILWAY STATION ROAD
+                   METTUPALAYAM - 641301
+                   CELL NO - 90431 01082
+
+ Date  =12/10/2012
+
+ Name of the Particulars =Todays Sales
+ =================================================
+ Date                            Cr Amt     Dr Amt
+ =================================================
+ 11/10/2012                  13950.00
+ 12/10/2012                   7825.00
+ -------------------------------------------------
+                       Total:   21775.00
+                             ---------------------
+

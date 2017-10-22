@@ -1,0 +1,13 @@
+M
+  Rotary Club of Mettupalayam
+
+Sales Period Wise Report Details
+Report from 30/10/2013 to 30/10/2013
+-----------------------------------
+Bill No  Sales Date    Bill Amt
+-----------------------------------
+25       10/30/2013     1200.00
+-----------------------------------
+  Total Amount (Rs):    1200.00
+  Discount Amt (Rs):      60.00
+  Total Amount (Rs):    1140.00

@@ -1,0 +1,186 @@
+M
+                Rotary Club of Mettupalayam
+
+Current Stock as on 21/10/2016               Time: 10:17:28 PM
+--------------------------------------------------------------
+Item Code  Item Name                       Item Type  Quantity
+--------------------------------------------------------------
+1          10 CM RUBY SPARKLERS            Boxes       4997.00
+2          10 CM EMERALD SPARKLERS         Boxes       4999.00
+3          10 CM BLUE SPARKLERS            Boxes       5000.00
+4          10 CM FIVE IN ONE SPARKLERS     Boxes       5000.00
+5          15 CM ELECTRIC SPARKLERS        Boxes       5000.00
+6          15 CM COLOURED SPARKLERS        Boxes       5000.00
+7          15 CM RUBY SPARKLERS            Boxes       5000.00
+8          15 CM EMERALD SPARKLERS         Boxes       5000.00
+9          15 CM PANCHAVARNAM SPARKLERS    Boxes       5000.00
+10         30 CM ELECTRIC SPARKLERS        Boxes       5000.00
+11         30 CM COLOURED SPARKLERS        Boxes       5000.00
+12         50 CM ELECTRIC SPARKLERS        Boxes       5000.00
+13         50 CM COLOURED SPARKLERS        Boxes       5000.00
+14         75 CM ELECTRIC SPARKLERS        Boxes       5000.00
+15         75 CM COLOURED SPARKLERS        Boxes       5000.00
+16         RAJDHANI SPARKLERS              Boxes       5000.00
+17         GROUND CHAKKAR BIG GREEN        Boxes       5000.00
+18         GROUNG CHAKKAR BIG              Boxes       5000.00
+19         GROUNG CHAKKAR SPECIAL          Boxes       5000.00
+20         GROUND CHAKKAR DELUX            Boxes       5000.00
+21         GIANT WHEEL                     Boxes       5000.00
+22         JOKE WHEEL                      Boxes       5000.00
+23         CLASSIC WHEEL                   Boxes       5000.00
+24         GLITTERING WHEEL                Boxes       5000.00
+25         FLOWER POT SMALL                Boxes       5000.00
+26         FLOWER POT BIG                  Boxes       5000.00
+27         FLOWER POT SPECIAL              Boxes       5000.00
+28         FLOWER POT GAINT                Boxes       5000.00
+29         FLOWER POT DELUX                Boxes       5000.00
+30         KILIMANJARO RED                 Boxes       5000.00
+31         FUJIYAMA GREEN                  Boxes       5000.00
+32         JADUGHAR                        Boxes       5000.00
+33         MANORANJAN                      Boxes       5000.00
+34         ROOPKELA                        Boxes       5000.00
+35         VARANAJAL                       Boxes       5000.00
+36         KIDDYS JOY                      Boxes       5000.00
+37         YOLO GREEN                      Boxes       5000.00
+38         ROYAL MAJESTIC                  Boxes       5000.00
+39         DIL SE                          Boxes       5000.00
+40         ELECTRIC DIAMOND                Boxes       5000.00
+41         TWINKLING STAR 45 CMS           Boxes       5000.00
+42         TWINKLING STAR 60 CMS           Boxes       5000.00
+43         DOUBLE MYSTICA                  Boxes       5000.00
+44         PENCIL                          Boxes       5000.00
+45         PENCIL DELUX                    Boxes       5000.00
+46         GREEN CANDLE                    Boxes       5000.00
+47         RED CANDLE                      Boxes       5000.00
+48         HYDROGEN BOMB                   Boxes       5000.00
+49         CAKE BOMB BIG                   Boxes       5000.00
+50         SHOGUN BOMB                     Boxes       5000.00
+
+
+                Rotary Club of Mettupalayam
+
+Current Stock as on 21/10/2016                             Time: 10:17:28 PM
+--------------------------------------------------------------
+Item Code  Item Name                       Item Type  Quantity
+--------------------------------------------------------------
+51         GANESH CRACKERS                 Boxes       5000.00
+52         LAKSHMI CRACKERS                Boxes       5000.00
+53         BIRD CRACKERS                   Boxes       5000.00
+54         DOUBLE SOUNG BIG                Boxes       5000.00
+55         3 SOUND WITH COLOUR             Boxes       5000.00
+56         LOOSE CRACKERS BIJILI           Boxes       5000.00
+57         56 WALA CHORSA                  Boxes       5000.00
+58         28 WALA JAINT                   Boxes       5000.00
+59         56 WALA JAINT                   Boxes       5000.00
+60         24 WALA DELUX                   Boxes       5000.00
+61         48 WALA DELUX                   Boxes       5000.00
+62         100 LAR DELUX                   Boxes       5000.00
+63         CELEBRATION CRACKERS 100        Boxes       5000.00
+64         CELEBRATION CRACKERS 200        Boxes       5000.00
+65         CELEBRATION CRACKERS 300        Boxes       5000.00
+66         CELEBRATION CRACKERS 600        Boxes       5000.00
+67         CELEBRATION CRACKERS 1000       Boxes       5000.00
+68         CELEBRATION CRACKERS 2000       Boxes       5000.00
+69         CELEBRATION CRACKERS 5000       Boxes       5000.00
+70         CELEBRATION CRACKERS 10000      Boxes       5000.00
+71         COLOUR ROCKET                   Boxes       5000.00
+72         ROCKET BOMB                     Boxes       5000.00
+73         FLOWER MISSILE                  Boxes       5000.00
+74         SOUND MISSILE                   Boxes       5000.00
+75         MULTI COLOUR ROCKET             Boxes       5000.00
+76         DOUBLE SOUND ROCKET             Boxes       5000.00
+77         CLASSIC ROCKET                  Boxes       5000.00
+78         PARACHUTE ROCKET                Boxes       5000.00
+79         AIR WHISTLE                     Boxes       5000.00
+80         SUPER WHISTLE                   Boxes       5000.00
+81         POP - POP                       Boxes       5000.00
+82         7 SHOT GREEN                    Boxes       5000.00
+83         7 SHOT RED                      Boxes       5000.00
+84         7 SHOT GOLD                     Boxes       5000.00
+85         DANCING BUTTERFLY               Boxes       5000.00
+86         FUNNY BUNNY                     Boxes       5000.00
+87         CHORI CHORI                     Boxes       5000.00
+88         GANGA                           Boxes       5000.00
+89         COLOUR SHARK                    Boxes       5000.00
+90         SPARKLING THUNDER               Boxes       5000.00
+91         CRACKLING STAR                  Boxes       5000.00
+92         NINJA CHAKKAR                   Boxes       5000.00
+93         CHOTA BAI                       Boxes       5000.00
+94         SUPER SONICA                    Boxes       5000.00
+95         COLOUR FANTASY                  Boxes       5000.00
+96         POGO MIXED                      Boxes       5000.00
+97         1-1/4 MIXED                     Boxes       5000.00
+98         DEKHEMAN 12 SHOT                Boxes       5000.00
+99         CHAL MERE SHATH 25 SHOT         Boxes       5000.00
+100        DIL MAANGE MORE 50 SHOT         Boxes       5000.00
+
+
+                Rotary Club of Mettupalayam
+
+Current Stock as on 21/10/2016                             Time: 10:17:28 PM
+--------------------------------------------------------------
+Item Code  Item Name                       Item Type  Quantity
+--------------------------------------------------------------
+101        SKY STORM 12 SHOT               Boxes       5000.00
+102        SONERI BARSATH 25 SHOT          Boxes       5000.00
+103        12 STAR CRACKLING WITH COLOUR   Boxes       5000.00
+104        SANGHAI NIGHT                   Boxes       5000.00
+105        SKY CRACKLING                   Boxes       5000.00
+106        ROYAL SALUTE 6 SHOT             Boxes       5000.00
+107        25 SHOT CAKE                    Boxes       5000.00
+108        WONDER NIGHT 60 SHOT            Boxes       5000.00
+109        MYSTIC MAGIC 60 SHOT            Boxes       5000.00
+110        SKY BOOMERS                     Boxes       5000.00
+111        CLASSIC NIGHT 120 SHOT          Boxes       5000.00
+112        CLASSIC NIGHT 240 SHOT          Boxes       5000.00
+113        ARABIAN DELIGHT 120 SHOT        Boxes       5000.00
+114        ARABIAN DELIGHT 240 SHOT        Boxes       5000.00
+115        FESTIVA SPECIAL 50 SHOT         Boxes       5000.00
+116        DHADKAN                         Boxes       5000.00
+117        RANG O RANG 60 SHOT             Boxes       5000.00
+118        ALPHA GREEN CRACKLING           Boxes       5000.00
+119        OMEGA RED CRACKLING             Boxes       5000.00
+120        MAGIC MISTERY                   Boxes       5000.00
+121        MIN MINI                        Boxes       5000.00
+122        PIKACHU                         Boxes       5000.00
+123        WHITE ROSES 2 PICES             Boxes       5000.00
+124        CLOWN TOWN 2 PICES              Boxes       5000.00
+125        GLADIATOR 2 PICES               Boxes       5000.00
+126        ELECTRIC BLUE 2 PICES           Boxes       5000.00
+127        GOLDEN MOON                     Boxes       5000.00
+128        GREEN ECLIPSE                   Boxes       5000.00
+129        GLADIATOR                       Boxes       5000.00
+130        CLOWN TOWN                      Boxes       5000.00
+131        WHITE ROSE                      Boxes       5000.00
+132        ENIGMA                          Boxes       5000.00
+133        TROPNICANA                      Boxes       5000.00
+134        SILK SHOW                       Boxes       5000.00
+135        RIMZIM                          Boxes       5000.00
+136        SKY DIVERS                      Boxes       5000.00
+137        BLUE BIRDS                      Boxes       5000.00
+138        BLUE BLOOM                      Boxes       5000.00
+139        AYYANS PINK                     Boxes       5000.00
+140        GREEN BLINK                     Boxes       5000.00
+141        AKASH THORAN                    Boxes       5000.00
+142        GIFT BOX JUNIOR PACK            Boxes       5000.00
+143        GIFT BOX A                      Boxes       5000.00
+144        GIFT BOX B                      Boxes       5000.00
+145        GIFT BOX DINO                   Boxes       5000.00
+146        BUNNY BRAND PAPER CAPS ROLL     Boxes       5000.00
+147        CAMAL POPS 5 COLOUR             Boxes       5000.00
+148        CAMEL RAINBOW 5 COLOUR          Boxes       5000.00
+149        CRUSER GUN                      Boxes       5000.00
+150        KANDO GUN                       Boxes       5000.00
+
+
+                Rotary Club of Mettupalayam
+
+Current Stock as on 21/10/2016                             Time: 10:17:28 PM
+--------------------------------------------------------------
+Item Code  Item Name                       Item Type  Quantity
+--------------------------------------------------------------
+151        FLEET GUN                       Boxes       5000.00
+152        BADHI                           Boxes       5000.00
+--------------------------------------------------------------
+                                               Total:  759996.00
+--------------------------------------------------------------
