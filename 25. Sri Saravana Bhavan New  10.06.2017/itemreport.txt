@@ -1,0 +1,102 @@
+          Sri Saravana Bhavan
+
+          Item Details Report
+
+------------------------------------------
+I.Code Item Name             Price I. Type
+------------------------------------------
+     1 IDLY                  25.00 Indian  
+     2 MINI IDLY             40.00 Indian  
+     3 GEE IDLY              40.00 Indian  
+     4 PONGAL                45.00 Indian  
+     5 POORI                 45.00 Indian  
+     6 VADAI                 12.00 Indian  
+     7 SAMBAR VADAI          19.00 Indian  
+     8 CURD VADAI            30.00 Indian  
+     9 CHAPPATHY             45.00 Indian  
+    10 PARROTA               45.00 Indian  
+    11 ONION DOSAI           60.00 Indian  
+    12 MASAL DOSAI           55.00 Indian  
+    13 PODI DOSAI            55.00 Indian  
+    14 RAVA ROAST            50.00 Indian  
+    15 ONION RAVA DOSAI      60.00 Indian  
+    16 UTHAPPAM              50.00 Indian  
+    17 ONION UTHAPPAM        55.00 Indian  
+    18 PODI UTHAPAPPAM       55.00 Indian  
+    19 ONION PODI UTHAPPAM   65.00 Indian  
+    20 GHEE ONION UTHAPAM    70.00 Indian  
+    21 CHOLA POORI/CHENA M   60.00 Indian  
+    22 ROAST                 45.00 Indian  
+    23 GHEE ROAST            65.00 Indian  
+    24 IDLY SINGLE           13.00 Indian  
+    25 POORI SINGLE          23.00 Indian  
+    26 MEALS SARAVANA BHAV  110.00 Indian  
+    27 MINI MEALS            80.00 Indian  
+    28 SAMBAR RICE           45.00 Indian  
+    29 CURD RICE             40.00 Indian  
+    30 LEMON RICE            40.00 Indian  
+    31 VEG BIRIYANI          50.00 Indian  
+    32 MUSHROOM BIRIYANI     60.00 Indian  
+    33 VEG SPRING ROOL       80.00 Chinese 
+    34 CHILLY GOBI           75.00 Chinese 
+    35 CHILLY MUSHROOM       90.00 Chinese 
+    36 GOBI MANCHURIAN      100.00 Chinese 
+    37 MUSHROOM MUNCHURIAN  115.00 Chinese 
+    38 BABY CORN PEPPER FR  100.00 Chinese 
+    39 MUSHROOM PEPPER FRY  120.00 Chinese 
+    40 VEG FRIED RICE       110.00 Chinese 
+    41 VEG NOODLES          110.00 Chinese 
+    42 SEZCHWAN FRIED RICE  120.00 Chinese 
+    43 MASALA KULCHA         60.00 Chinese 
+    44 ONION/GARLIC KULCHA   70.00 Chinese 
+    45 ROTI                  30.00 Chinese 
+    46 NAAN                  35.00 Chinese 
+    47 BUTTER NAAN           40.00 Chinese 
+    48 PANEER BUTTER MASAL  110.00 Indian  
+    49 MUSHROOM MASALA      120.00 Indian  
+    50 MIXED VEG CURRY      110.00 Indian  
+    51 KADAI VEG            120.00 Indian  
+    52 DHALL FRY             80.00 Indian  
+    53 TOMATO SOUP           55.00 Indian  
+    54 HOT & SOUR SOUP       55.00 Indian  
+    55 SWEET CORN SOUP       60.00 Indian  
+    56 MILK                  20.00 Indian  
+    57 COFFEE                25.00 Indian  
+    58 TEA                   23.00 Indian  
+    59 BAHAM GHEER           80.00 Indian  
+    60 VANILLA MILKSHAKE    110.00 Indian  
+    61 MANGO MILKSHAKE      110.00 Indian  
+    62 CHOCOLATE MILKSHAKE  110.00 Indian  
+    63 FRESH LIME JUICE      40.00 Indian  
+    64 FRESH LIME SODA       60.00 Indian  
+    65 ROSE MILK             70.00 Indian  
+    66 LASSI SALT/SWEET      60.00 Indian  
+    67 POMEGRANATE JUICE     90.00 Indian  
+    68 MANGO JUICE           80.00 Indian  
+    69 WATER MELON JUICE     75.00 Indian  
+    70 ORANGE JUICE          75.00 Indian  
+    71 MOSAMBI JUICE         75.00 Indian  
+    72 APPLE JUICE           80.00 Indian  
+    73 PINEAPPLE JUICE       80.00 Indian  
+    74 GRAPE JUICE           85.00 Indian  
+    75 MINERAL WATER         20.00 Indian  
+    76 PARROTA SINGLE        23.00 Indian  
+    77 CHAPPATHY SINGLE      23.00 Indian  
+    78 IDIYAPPAM SINGLE      12.00 Indian  
+    79 PARCEL MEALS         120.00 Indian  
+    80 ICE CREAM SCOPE       40.00 Indian  
+    81 KEEMA PARRATA         80.00 Chinese 
+    82 CHILLI PARRATA        80.00 Chinese 
+    83 CHILLY PANEER        110.00 Chinese 
+    84 PANEER MANCHURIAN    125.00 Indian  
+    85 PANEER FRIED RICE    130.00 Chinese 
+    86 MUSHROOM FRIED RICE  120.00 Indian  
+    87 PANEER PEPPER FRY    130.00 Chinese 
+    88 PANEER NOODLES       130.00 Chinese 
+------------------------------------------
+
+
+
+
+
+m

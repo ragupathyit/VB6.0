@@ -1,0 +1,22 @@
+          Sri Saravana Bhavan
+
+            Item Wise Report
+
+Report from 08/12/2016 to 08/12/2016
+------------------------------------------
+ICo Item Name              Rate  Qty   Amt
+------------------------------------------
+  1 CHAPPATHY                45    1    45
+  2 KADAI PANEER            130    1   130
+  3 PORATTA SINGLE           23    1    23
+  4 RAVA ROAST               60    1    60
+  5 ROAST                    45    1    45
+------------------------------------------
+                        Total:      303.00
+                              ------------
+
+
+
+
+
+m

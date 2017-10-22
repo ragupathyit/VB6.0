@@ -1,0 +1,12 @@
+item
+table
+waiter
+Order
+report
+calc
+help
+settings
+delete
+exit
+
+Every Time when we update the package. Dont forgot the last updated date in settings form
