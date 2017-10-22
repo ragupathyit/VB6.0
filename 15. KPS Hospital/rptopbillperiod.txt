@@ -1,0 +1,78 @@
+M             K.P.S HOSPITALS (P) LTD
+         ANNUR ROAD, METTUPALAYAM - 641 301
+                04254-224314, 224315
+
+         OP Bill Period Wise Report Details
+
+Report for the date from 01/12/2015 to 01/12/2015
+-------------------------------------------------------------
+B. No  Bill Date     Patient Name                    Bill Amt
+-------------------------------------------------------------
+27861  01/12/2015    MRS.M.AMARAVATHY                  100.00
+27862  01/12/2015    MR.R.MOMMOORTHY                   100.00
+27864  01/12/2015    MIS.KOWSIYA                        20.00
+27865  01/12/2015    MRS.SUMITHRA                      100.00
+27866  01/12/2015    MR.GOWRI SANKER                   100.00
+27867  01/12/2015    MR.HALLI                          100.00
+27868  01/12/2015    MR.SIVAKUMAR                      100.00
+27869  01/12/2015    MR.BASKER                         100.00
+27870  01/12/2015    MR.MUTHU SAMY                     100.00
+27871  01/12/2015    MRS.SARASWATHY                    100.00
+27872  01/12/2015    MR.JOTHI RAM                      100.00
+27873  01/12/2015    MRS.SINDHAMANI                    100.00
+27874  01/12/2015    MRS.YASODHA                       100.00
+27875  01/12/2015    MR.SUBRAMANI                      100.00
+27876  01/12/2015    MRS.PAPPAMMAL                     100.00
+27877  01/12/2015    MR.VIMAL                          100.00
+27878  01/12/2015    MR.BAKKIYARAJ                     100.00
+27879  01/12/2015    MR.VADIVEL PRASHATH               100.00
+27880  01/12/2015    MR.ZAHEER HUSSEN                  100.00
+27881  01/12/2015    MR.B.VELLAI SAMY                  100.00
+27882  01/12/2015    MR.BASKAR                         150.00
+27883  01/12/2015    MR.ESHWARAN                       100.00
+27884  01/12/2015    MR.BATHRAPPAN                     100.00
+27885  01/12/2015    MR.PRABHU                         100.00
+27886  01/12/2015    MR.RAMESH                         100.00
+27887  01/12/2015    MR.S.BABU                         100.00
+27888  01/12/2015    MR.MANI                           100.00
+27889  01/12/2015    MR.KITTNA SAMY                    100.00
+27890  01/12/2015    MR.VIGNESH                        100.00
+27891  01/12/2015    MT.MONISH                          50.00
+27892  01/12/2015    MR.GANABATHI                      100.00
+27893  01/12/2015    MR.SELVARAJ                       100.00
+27894  01/12/2015    MR.SUBRAMANI                      100.00
+27895  01/12/2015    MRS.PONNAMMAL                     100.00
+27896  01/12/2015    MR.DINESH                         100.00
+27897  01/12/2015    MRS.BATHIRAMMAL                   100.00
+27898  01/12/2015    MR.RAMASAMY                       100.00
+27902  01/12/2015    MR.PRASANTH                       100.00
+27905  01/12/2015    MR.RANGASAMY                      100.00
+27906  01/12/2015    MR.JAYA PRAKASH                   100.00
+27908  01/12/2015    MR.RAMASAMY                        50.00
+27909  01/12/2015    MR.RANGASAMY                       50.00
+27916  01/12/2015    MR.KRISHNA SAMY                   250.00
+27917  01/12/2015    MR.JOTHI RAM                      250.00
+27920  01/12/2015    MRS.PAPPAMMAL                     250.00
+27944  01/12/2015    MS.KOWSELYA                        20.00
+27945  01/12/2015    MR.BUNNU                           50.00
+27946  01/12/2015    MS.DEVI                           100.00
+27947  01/12/2015    MS.POOJA                          100.00
+27948  01/12/2015    MR.VINOTHKUMAR                     20.00
+27949  01/12/2015    MR.ARUNACHALAM                    100.00
+27950  01/12/2015    MR.SHAMEER                        100.00
+27951  01/12/2015    MRS.AROKIYAMARY                   100.00
+27952  01/12/2015    BABY.POOVARASI                    100.00
+27954  01/12/2015    MRS.LATHA                         100.00
+27955  01/12/2015    MR.SHAMEER                         50.00
+27956  01/12/2015    MR.SAMUVEL                         50.00
+-------------------------------------------------------------
+                                  Total Amount (Rs):  5660.00
+
+Canceled Bills
+~~~~~~~~ ~~~~~
+27953  01/12/2015    BABY.HASINI                       100.00
+27931  01/12/2015    MRS.SELVI                         100.00
+27933  01/12/2015    MS.KEERTHANA                      100.00
+27934  01/12/2015    MS.KALAIVANI                      100.00
+27935  01/12/2015    MT.B.GOKUL KANNAN                 100.00
+27939  01/12/2015    MRS.LALITHA                       100.00
