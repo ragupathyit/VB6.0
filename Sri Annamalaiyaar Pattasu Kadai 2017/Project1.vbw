@@ -1,0 +1,17 @@
+MDIForm1 = 150, 150, 687, 585, C, 75, 75, 612, 510, C
+LoginFrm1 = 50, 50, 587, 485, C, 25, 25, 562, 460, C
+ItemFrm = 50, 50, 587, 485, C, 125, 125, 662, 560, C
+PurchasePeriodRpt = 125, 125, 662, 534, C, 150, 150, 687, 585, C
+RetailSalesPeriodRpt = 100, 100, 637, 509, C, 175, 175, 712, 610, C
+modGetMACadr = 0, 0, 0, 0, C
+SupplierFrm = 100, 100, 637, 509, C, 200, 200, 737, 635, C
+frmhelp = 150, 150, 687, 559, C, 0, 0, 537, 435, C
+SalesFrm1 = 0, 0, 537, 409, C, 25, 25, 562, 460, C
+modConvertNumber = 0, 0, 0, 0, C
+PurchaseFrm = 25, 25, 562, 434, C, 50, 50, 587, 485, C
+ModuleConnection = 0, 0, 0, 0, C
+PurchasePeriodSupRpt = 0, 0, 537, 409, C, 100, 100, 637, 535, C
+DBdaybookfrm = 100, 100, 637, 509, C, 150, 150, 687, 585, C
+daybookRpt = 50, 50, 587, 459, C, 175, 175, 712, 610, C
+AdminPassword = 125, 125, 662, 534, C, 200, 200, 737, 635, C
+Button = 0, 0, 0, 0, C, 0, 0, 537, 435, C

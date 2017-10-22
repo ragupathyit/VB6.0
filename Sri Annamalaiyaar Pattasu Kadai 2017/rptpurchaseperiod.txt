@@ -1,0 +1,18 @@
+M
+                       Annamalaiyaar Pattasu Kadai
+                       No 5A, RAILWAY STATION ROAD
+                          METTUPALAYAM - 641301
+                          CELL NO - 90431 01082
+
+                    Purchase Period Wise Report Details
+Report for the date from 08/10/2012 to 08/10/2012
+--------------------------------------------------------------------------------
+ICode  Item Name                      Item Type  Item Rate  Quantity   Total Amt
+--------------------------------------------------------------------------------
+1      KAMBIMATHAPPU 10 CMS           BOXES          12.00     50.00      600.00
+2      KAMBIMATHAPPU 15 CMS           BOXES          15.00     50.00      750.00
+3      KAMBIMATHAPPU 20 CMS           BOXES          25.00     50.00     1250.00
+--------------------------------------------------------------------------------
+                                                   Total Amount (Rs):    2600.00
+                                                   Discount Amt (Rs):       0.00
+                                          Total Purchase Amount (Rs):    2600.00

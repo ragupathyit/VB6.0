@@ -1,0 +1,11 @@
+M
+                     Sri Annamalaiyar Pattasu Kadai
+                       No 5A, RAILWAY STATION ROAD
+                          METTUPALAYAM - 641301
+                    CELL NO - 98437 44144, 93449 22273
+
+                    Purchase Supplier Wise Report Details
+Report is based on the supplier SS
+--------------------------------------------------------------------------------
+ICode  Item Name                      Item Type  Item Rate  Quantity   Total Amt
+--------------------------------------------------------------------------------
