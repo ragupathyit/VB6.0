@@ -1,0 +1,1 @@
+type bill.txt>prn
